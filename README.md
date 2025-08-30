@@ -1,6 +1,6 @@
 
 
-<h1 align="center">📚 **CSSPMS.GRAMMAR Online Academy Platform**</h1>
+<h1 align="center">📚 CSSPMS.GRAMMAR Online Academy Platform</h1>
 <h3 align="center">An Interactive Hub for Seamless Learning & Exam Preparation</h3>
 
 <p align="center">
