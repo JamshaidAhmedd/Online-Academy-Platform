@@ -20,6 +20,47 @@
 
 ---
 
+## 🖼️ Project Screenshots
+
+Here are some key screenshots from the **CSSPMS.GRAMMAR Online Academy Platform** to give you a visual overview of the project:
+
+* **Home Page**:
+  ![Home Page](EduReach%20Academy/Home.png)
+
+  * This is the **Home Page**, where users can explore various courses and start their learning journey.
+
+* **Course Catalog Page**:
+  ![Courses](EduReach%20Academy/Courses.png)
+
+  * The **Course Catalog Page** displays all available courses with their details like title, description, and pricing.
+
+* **Sign In Page**:
+  ![Sign In](EduReach%20Academy/signin.png)
+
+  * The **Sign In Page** allows users to securely log in to their accounts to access their courses and personal information.
+
+* **Sign Up Page**:
+  ![Sign Up](EduReach%20Academy/signup.png)
+
+  * The **Sign Up Page** enables users to create an account and begin their learning process.
+
+* **About Us Page**:
+  ![About Us](EduReach%20Academy/About.png)
+
+  * The **About Us Page** provides information about the platform, its mission, and the services it offers.
+
+* **Contact Us Page**:
+  ![Contact Us](EduReach%20Academy/contctUS.png)
+
+  * The **Contact Us Page** includes a form and information for users to get in touch with the platform's support team.
+
+* **Blogs Page**:
+  ![Blogs](EduReach%20Academy/Blogs.png)
+
+  * The **Blogs Page** features educational articles and updates relevant to CSS & PMS exam preparation.
+
+---
+
 ## 💡 About the Project
 
 **CSSPMS.GRAMMAR Online Academy** is an innovative platform designed to provide a seamless learning experience for CSS & PMS exam aspirants. Offering high-quality educational content, secure video hosting, and interactive features, this platform is tailored for students who are looking to advance their studies and excel in their exams.
